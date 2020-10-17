@@ -22,6 +22,7 @@ namespace examen1Componentes
             generarCodigoAleatorio();
             textBoxJuego.Enabled = true;
             buttonComparar.Enabled = true;
+            button1.Enabled = false;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -181,6 +182,7 @@ namespace examen1Componentes
             labelGanador.Visible = true;
             textBoxJuego.Enabled = false;
             buttonComparar.Enabled = false;
+            button1.Enabled = true;
         }
 
         // Función que muestra mensaje de acierto parcial
@@ -211,6 +213,7 @@ namespace examen1Componentes
             labelGanador.Visible = true;
             buttonComparar.Enabled = false;
             textBoxJuego.Enabled = false;
+            button1.Enabled = true;
         }
     }
 }
