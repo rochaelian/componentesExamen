@@ -1,0 +1,16 @@
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\bin\Debug\examen1Componentes.dll
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\bin\Debug\examen1Componentes.pdb
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csprojAssemblyReference.cache
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.UserControl1.resources
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csproj.GenerateResource.cache
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csproj.CoreCompileInputs.cache
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.dll
+D:\Users\Elian\Desktop\Componentes\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.pdb
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\bin\Debug\examen1Componentes.dll
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\bin\Debug\examen1Componentes.pdb
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csprojAssemblyReference.cache
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.UserControl1.resources
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csproj.GenerateResource.cache
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.csproj.CoreCompileInputs.cache
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.dll
+D:\Users\Elian\Desktop\Componentes\Respaldo\Examen 1\examen1Componentes\obj\Debug\examen1Componentes.pdb
